@@ -1,2 +1,2 @@
-# barcode-scanner
-barcode scanner
+# starterRN
+# starterRN
